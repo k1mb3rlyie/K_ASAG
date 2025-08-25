@@ -40,17 +40,28 @@ Clone the repository:
 ```bash
 git clone https://github.com/k1mb3rlyie/K_ASAG.git
 cd K_ASAG
+```
 
+You can choose one of the following setup methods:
+
+### `venv` (recommended for most users)
+
+```bash
 python3 -m venv venv
-# Activate:
-# Linux/macOS — source venv/bin/activate
-# Windows (PowerShell) — .\venv\Scripts\Activate
+
+# Activate environment
+# Linux/macOS: source venv/bin/activate
+# Windows (PowerShell): .\venv\Scripts\Activate
 
 pip install -r requirements.txt
+```
 
+### Conda
+
+```bash
 conda env create -f environment.yml
 conda activate k_asag_env
-
+```
 ---
 
 ## File Structure
