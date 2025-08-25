@@ -35,8 +35,22 @@ This project includes **custom JSON data** for evaluation (purrr):
 
 ## Installation
 
-Clone the repo and install dependencies:
-### 22 
+Clone the repository:
+
+```bash
+git clone https://github.com/k1mb3rlyie/K_ASAG.git
+cd K_ASAG
+
+python3 -m venv venv
+# Activate:
+# Linux/macOS — source venv/bin/activate
+# Windows (PowerShell) — .\venv\Scripts\Activate
+
+pip install -r requirements.txt
+
+conda env create -f environment.yml
+conda activate k_asag_env
+
 ---
 
 ## File Structure
