@@ -1,0 +1,13 @@
+[
+    {
+        "questions": [
+            {
+                "question": "what is the capital of Nigeria",
+                "rubric": "The capital of nigeria is Abuja",
+                "mode": "hybrid",
+                "weight": 1.0
+            }
+        ],
+        "language": "english"
+    }
+]

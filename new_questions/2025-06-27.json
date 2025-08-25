@@ -1,0 +1,24 @@
+[
+    {
+        "questions": [
+            {
+                "question": "Describe the process of inhalation in man",
+                "rubric": "Inhalation in humans begins when the diaphragm contracts and moves downward, while the external intercostal muscles contract to raise the rib cage. This increases the volume of the thoracic cavity and decreases the pressure inside the lungs, causing air to be drawn in through the nose or mouth and into the lungs",
+                "mode": "semantic",
+                "weight": 1.0
+            },
+            {
+                "question": "Describe an experiment to demonstrate the effect of distilled water on mammalian red blood",
+                "rubric": "When mammalian red blood cells are placed in distilled water, osmosis causes water to move into the cells because the surrounding solution is hypotonic. This influx of water leads to swelling and eventually causes the cells to burst, a process known as hemolysis. This experiment demonstrates the effect of osmotic pressure on cell membranes.",
+                "mode": "semantic",
+                "weight": 1.0
+            },
+            {
+                "question": "Explain how the structure of stomata aids in gaseous exchange in plants.",
+                "rubric": "Stomata are specialized structures in the leaves of plants that regulate gas exchange. They open to allow the entry of carbon dioxide needed for photosynthesis and release oxygen into the air. The size of the stomatal opening is controlled by guard cells, which respond to environmental cues such as light, humidity, and carbon dioxide levels",
+                "mode": "semantic",
+                "weight": 1.0
+            }
+        ]
+    }
+]

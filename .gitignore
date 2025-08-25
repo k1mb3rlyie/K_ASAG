@@ -1,0 +1,44 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.pytest_cache/
+*.mypy_cache/
+*model_cache/
+
+# Model / embedding cache (SentenceTransformers / HuggingFace)
+.cache_dir/
+sentence_transformers/
+transformers_cache/
+torch_cache/
+
+
+# Generated plots
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Environment files
+.env
+*.env

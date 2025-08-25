@@ -1,0 +1,40 @@
+[
+    {
+        "questions": [
+            {
+                "question": "what is the name of your bet rabbit?",
+                "rubric": "my pet rabbit is called clementine she loves to drive a car",
+                "mode": "semantic",
+                "weight": 1.0
+            },
+            {
+                "question": "what is the name of the planet closest to the sun",
+                "rubric": "the planet clossest to the sun is Mercury",
+                "mode": "keyword",
+                "weight": 1.0
+            },
+            {
+                "question": "what is the thing around your neck?",
+                "rubric": "the think around your neck is the name of the anthological book written by Chimamanda Adichie",
+                "mode": "hybrid",
+                "weight": 1.0
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Describe the effect of distilled water on mammalian red blood cells.",
+                "rubric": "\"Distilled water is hypotonic to the cytoplasm of red blood cells. When red blood cells are placed in distilled water, osmosis causes water to enter the cells. As water accumulates, the cells swell and may burst due to the increased internal pressure, a phenomenon called hemolysis.\",",
+                "mode": "semantic",
+                "weight": 1.0
+            },
+            {
+                "question": "Explain the importance of meiosis and fertilization in the reproduction of organisms.",
+                "rubric": "In the shoot system of flowering plants, stomata play a crucial role in gaseous exchange. These pores open to allow carbon dioxide to enter the leaf for photosynthesis and release oxygen into the air. The opening and closing of stomata are controlled by specialized guard cells that respond to environmental conditions.",
+                "mode": "semantic",
+                "weight": 1.0
+            }
+        ]
+    }
+]
